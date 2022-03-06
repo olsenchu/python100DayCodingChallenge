@@ -41,6 +41,6 @@ else:
     elif door_color == "blue":
       print("Eaten by beasts. Game over.")
     elif door_color == "yellow":
-      print("You win!!!")
+      print("You win!!")
     else:
       print("Game over!")
